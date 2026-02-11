@@ -1,5 +1,4 @@
-# nex-bot
-Discord role safe &amp; guard bot
-index.js
-package.json
-config.json
+nex-bot
+   ├── index.js
+   ├── package.json
+   ├── config.json
